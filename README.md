@@ -6,4 +6,7 @@
   The project is a web application that was developed using jsp and the event notifications are updated using ajax  technology.The front end was purely developed using html incorporating  bootstrap.The backend data storage is monitered by using MySQL database .The password and other sensitive informations are encrypted before storing it in the database and thereby ensuring data security and protecting the user’s privacy.
 # Technologies and framework used
   Java Server Pages | mySQL | HTML 5 & CSS 3 | Bootstrap
-  
+# Sample output
+![Screenshot (186)](https://user-images.githubusercontent.com/29236082/62834049-ba4ef900-bc64-11e9-9547-4ad68b1f9e60.png)
+![Screenshot (187)](https://user-images.githubusercontent.com/29236082/62834053-caff6f00-bc64-11e9-8ed0-fde51e3f1a28.png)
+![Screenshot (188)](https://user-images.githubusercontent.com/29236082/62834054-caff6f00-bc64-11e9-9e8a-b2e953a1bc55.png)
