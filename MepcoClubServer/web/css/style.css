@@ -1,0 +1,79 @@
+/*
+Author: NITHISHKUMAR K R
+*/
+li#titleArena.nav-item{
+    color: white;
+    font-size: 20px;
+}
+
+#chooseClub{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant-caps: all-petite-caps;
+    font-size: 18px;
+}
+
+table#table_login{
+    width: 35%;
+}
+
+body{
+    background-color: ;
+    color:black;
+}
+
+table#submenuTable{
+}
+
+.container1:hover .overlay {
+            opacity: 1;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #ffa200;
+}
+
+.container1:hover .overlay {
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.image{
+    width: 250px;
+    height: 250px;
+}
+.container1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    position: relative;
+    width: 300px;
+}
+
+#coCurricular_display{
+    width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.changeSize{
+    font-size: 20px;
+}
